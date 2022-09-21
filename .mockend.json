@@ -27,9 +27,12 @@
     "isPublic": {
       "boolean": {}
     }
-  },"demo1": {
-    "name": {
-      "string": {}
-    }
   }
+},
+{
+  "demo1": {
+  "name": {
+    "string": {}
+  }
+}
 }
