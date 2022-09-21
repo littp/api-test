@@ -27,12 +27,9 @@
     "isPublic": {
       "boolean": {}
     }
+  },"Dmoeee": {
+    "name": {
+      "string": {}
+    }
   }
-},
-{
-  "demo1": {
-  "name": {
-    "string": {}
-  }
-}
 }
